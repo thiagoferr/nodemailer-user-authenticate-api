@@ -13,7 +13,8 @@ export const ERRORS = {
         USER: {
             NO_ID: "Essa ID não existe",
             USER_NOT_FOUND: "Usuário não encontrado",
-            EMAIL_EXIST: "Esse e-mail já existe"
+            EMAIL_EXIST: "Esse e-mail já existe",
+            ERROR: "Ocorreu um erro",
         },
         RECOVER_PASSWORD: {
             ERROR: "Ocorreu um erro",
