@@ -1,7 +1,5 @@
 /node_modules
 /dist
-middlewares
-modules
 constants
 .gitignore
 package-lock.json
