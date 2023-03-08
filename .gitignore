@@ -1,6 +1,4 @@
 /node_modules
 /dist
-constants
-.gitignore
 package-lock.json
 .env
