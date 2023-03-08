@@ -1,6 +1,5 @@
 /node_modules
 /dist
-controllers
 models
 db
 config
